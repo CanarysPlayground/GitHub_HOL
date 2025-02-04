@@ -1,4 +1,4 @@
-# Developer_workflow GitHub Flow
+# Developer_workflow
 
 ## Objective
 Learn how to configure branch protection policies for the default branch of a GitHub repository. This exercise ensures that changes to critical branches, such as main, meet certain requirements before being merged, enhancing code quality and repository integrity. Additionally, practice the **GitHub Flow** by collaboratively working on a application. This exercise focuses on creating issues for traceability, working with feature branches, modifying code, creating pull requests, and merging changes into the main branch.
@@ -40,7 +40,7 @@ Learn how to configure branch protection policies for the default branch of a Gi
  
 
 
-## Task-2: Practicing GitHub Flow
+## Task-2: Practicing flow
 
 ### Steps to Follow
 

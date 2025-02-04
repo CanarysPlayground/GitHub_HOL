@@ -25,7 +25,7 @@ Welcome to the GitHub Hands-On Labs repository. This repository contains a serie
      - Create a repository from a template.
      - Add a user to the repository and provide write access.
 
-4. [Developer Workflow Git Flow](Exercises/Lab-2.1.md)
+4. [Developer Workflow](Exercises/Lab-2.1.md)
    - **Objective**: Configure branch protection policies for the default branch of a GitHub repository and practice Git flow.
    - **Tasks**:
      - Enable branch protection policies.
